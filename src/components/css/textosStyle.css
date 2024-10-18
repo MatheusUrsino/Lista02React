@@ -1,0 +1,26 @@
+.titles
+{
+    text-align: center;
+    color: #8e35b5;
+}
+p
+{
+text-align: center;
+}
+
+.paragrafo
+{
+    color: #4ba8bf;
+}
+
+.list
+{
+    display: flex;
+    width: 100%;
+    padding: 20px;
+    height: fit-content;
+    align-items: center;
+    justify-content: center;
+    margin: 1rem;
+    
+}
