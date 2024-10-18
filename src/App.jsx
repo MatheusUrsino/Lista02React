@@ -1,8 +1,8 @@
 import "./App.css";
-import Textos from "./components/textos";
+import Textos from "./components/Textos";
 import BtnComponent from "./components/ButtonCpn";
-import ImagesFunction from "./components/imagesCpn";
-import HoraDoDia from  "./components/horario";
+import ImagesFunction from "./components/ImagesCpn";
+import HoraDoDia from  "./components/Horario";
 function App() {
   const listaItens = ["React", "NextJS", "Tailwind"]; //esta constante serve para adicionar itens na lista ordenada
 
